@@ -1,23 +1,3 @@
-# lindamsandaker 👋
-
-Vanilla HTML website about me.
-
-To start the site use VSCODE LIVE SERVER
-
-> # This is a quote
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-'''bash
-const myName = "Manny"
-'''
-<!--
 **LindaMSandaker/lindamsandaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
