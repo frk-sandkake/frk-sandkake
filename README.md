@@ -2,7 +2,7 @@
 
 ![readme-profile](https://user-images.githubusercontent.com/60813876/172886764-a287896b-ea94-498f-bd9a-bcfc3851a664.jpg)
 
-![Visitor counter](https://komarev.com/ghpvc/?username=lindamsandaker&color=1FB8BC) ![Follower counter](https://img.shields.io/github/followers/lindamsandaker?label=follow&logoColor=teal&style=social)
+![Visitor counter](https://komarev.com/ghpvc/?username=frk-sandkake&color=1FB8BC) ![Follower counter](https://img.shields.io/github/followers/frk-sandkake?label=follow&logoColor=teal&style=social)
 
 # Hey there! 👋
 
