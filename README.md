@@ -3,8 +3,8 @@
 <div align=center> 
 
 #  Welcome, fellow explorer 🌌
-## To my, frk.Sandkakes, special little space 🌈 
-### ✨ You may stay as long as you please, I hope you'll enjoy! ✨  
+## to my special little space 🌈 
+### ✨ Stay as long as you please, hope you'll enjoy! ✨  
 <br><br>
 ***
 
@@ -21,8 +21,13 @@
 ```javascript
 const frkSandkake = {
   pronouns: "she" | "her",
-  history: "Scandinavian childhood, never married, two bonus-kids, Patrik&Thea😻, big family, and good friend.. 
-  15+ years experience, both education and working, in the mental health -, and social care. Needed to do something else..",
+  about: "Scandinavian childhood, big family, never married, two ex-bonus-kids, Patrik&Thea😻😻. 
+          15+ years experience, in the mental- and social care, both education and working. 
+          Now studying Front-end dev., at Noroff VOC Oslo, finish summer 2023.",
+  interests: [Dancing, music, stories, swimming, organizing, "and of course hanging out with family and friends."],
+  fun_fact: "frk.Sandkake in english is miss.Sandcake, and comes from when I mispronounced my last name 
+             as a little girl, which everyone found hystarically funny, for me it took some years.. 😂"
+ }
   
   const frontEndDevelopment = {
     code: [Javascript, HTML, CSS],
